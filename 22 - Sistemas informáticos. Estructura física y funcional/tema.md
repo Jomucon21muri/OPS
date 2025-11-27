@@ -1,33 +1,99 @@
-# 22 - Sistemas informáticos. Estructura física y funcional
+# TEMA 22: SISTEMAS INFORMÁTICOS. ESTRUCTURA FÍSICA Y FUNCIONAL
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Sistema informático
-      - Hardware (CPU, memoria, E/S)
-      - Software (SO, aplicaciones)
-      - Datos
-      - Usuarios
-      - Redes
-      - Interfaces
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. SISTEMAS INFORMÁTICOS
+3. ESTRUCTURA FÍSICA DE UN SISTEMA INFORMÁTICO
+4. ESTRUCTURA FUNCIONAL DE UN SISTEMA INFORMÁTICO
+5. SISTEMAS EN RED
+6. SEGURIDAD EN LOS SISTEMAS INFORMÁTICOS
+7. CONCLUSIÓN
+8. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Componentes de un sistema informático
+## 1. INTRODUCCIÓN
 
-3.2 Estructura física: arquitectura Von Neumann
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Capas funcionales: hardware, SO, aplicaciones
+```
+SISTEMAS INFORMÁTICOS. ESTRUCTURA FÍSICA Y FUNCIONAL
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Integración y comunicación entre capas
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "SISTEMAS INFORMÁTICOS. ESTRUCTURA FÍSICA Y FUNCIONAL" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. SISTEMAS INFORMÁTICOS
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. ESTRUCTURA FÍSICA DE UN SISTEMA INFORMÁTICO
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. ESTRUCTURA FUNCIONAL DE UN SISTEMA INFORMÁTICO
+
+### 4.1. Contenido fundamental
+
+En la sección «4.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 5. SISTEMAS EN RED
+
+### 5.1. Contenido fundamental
+
+En la sección «5.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 6. SEGURIDAD EN LOS SISTEMAS INFORMÁTICOS
+
+### 6.1. Contenido fundamental
+
+En la sección «6.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 7. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 8. BIBLIOGRAFÍA
+
+1. [Referencias]

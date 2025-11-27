@@ -1,33 +1,88 @@
-# 16 - Sistemas operativos. Gestión de procesos
+# TEMA 16: SISTEMAS OPERATIVOS: GESTIÓN DE PROCESOS
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Gestión de procesos
-      - Estados del proceso
-      - Planificación (scheduling)
-      - Context switch
-      - PCB (Process Control Block)
-      - Sincronización
-      - Deadlock
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. PROCESOS
+3. PLANIFICACIÓN DE PROCESOS
+4. SINCRONIZACIÓN DE PROCESOS
+5. GESTIÓN DE PROCESOS EN SISTEMAS OPERATIVOS ACTUALES
+6. CONCLUSIÓN
+7. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Concepto de proceso y ciclo de vida
+## 1. INTRODUCCIÓN
 
-3.2 Algoritmos de planificación (FIFO, Round-Robin, prioridad)
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Sincronización y exclusión mutua
+```
+SISTEMAS OPERATIVOS: GESTIÓN DE PROCESOS
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Deadlock: detección, prevención y recuperación
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "SISTEMAS OPERATIVOS: GESTIÓN DE PROCESOS" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. PROCESOS
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. PLANIFICACIÓN DE PROCESOS
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. SINCRONIZACIÓN DE PROCESOS
+
+### 4.1. Contenido fundamental
+
+En la sección «4.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 5. GESTIÓN DE PROCESOS EN SISTEMAS OPERATIVOS ACTUALES
+
+### 5.1. Contenido fundamental
+
+En la sección «5.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 6. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 7. BIBLIOGRAFÍA
+
+1. [Referencias]

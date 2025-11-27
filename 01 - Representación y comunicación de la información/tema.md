@@ -5,24 +5,25 @@
 ## ÍNDICE
 
 1. INTRODUCCIÓN ................................................................................................
-   1.1. Contextualización ....................................................................................
-   1.2. REPRESENTACIÓN DE DATOS NUMÉRICOS .........................................................
-       1.2.1. Sistemas de numeración posicionales .................................................
-       1.2.2. Cambio de base ................................................................................
-       1.2.3. Operaciones básicas .........................................................................
-       1.2.4. Enteros .......................................................................................
-       1.2.5. Reales ........................................................................................
-   1.3. REPRESENTACIÓN DE DATOS ALFANUMÉRICOS .....................................................
-       1.3.1. ASCII .........................................................................................
-       1.3.2. EBCDIC .......................................................................................
-       1.3.3. Unicode .......................................................................................
-   1.4. REPRESENTACIÓN DE INFORMACIÓN MULTIMEDIA ..................................................
-       1.4.1. Imágenes .....................................................................................
-       1.4.2. Sonido ........................................................................................
-       1.4.3. Vídeo .........................................................................................
-   1.5. COMUNICACIÓN DE LA INFORMACIÓN ..............................................................
-   1.6. CONCLUSIÓN ...........................................................................................
-   1.7. BIBLIOGRAFÍA .........................................................................................
+   1.1. Mapa conceptual del tema ...........................................................................
+   1.2. Contextualización ....................................................................................
+2. REPRESENTACIÓN DE DATOS NUMÉRICOS .................................................................
+   2.1. Sistemas de numeración posicionales .............................................................
+   2.2. Operaciones básicas .................................................................................
+   2.3. Cambio de base ......................................................................................
+   2.4. Enteros .............................................................................................
+   2.5. Reales .............................................................................................
+3. REPRESENTACIÓN DE DATOS ALFANUMÉRICOS .................................................................
+   3.1. ASCII ...............................................................................................
+   3.2. EBCDIC .............................................................................................
+   3.3. Unicode .............................................................................................
+4. REPRESENTACIÓN DE INFORMACIÓN MULTIMEDIA ..............................................................
+   4.1. Imágenes ............................................................................................
+   4.2. Sonido ..............................................................................................
+   4.3. Vídeo ................................................................................................
+5. COMUNICACIÓN DE LA INFORMACIÓN ........................................................................
+6. CONCLUSIÓN .................................................................................................
+7. BIBLIOGRAFÍA ...............................................................................................
 
 .............................................................................................
 
@@ -30,7 +31,30 @@
 
 ## 1. INTRODUCCIÓN
 
-### 1.1. Contextualización
+### 1.1. Mapa Conceptual del Tema
+
+```
+REPRESENTACIÓN Y COMUNICACIÓN DE LA INFORMACIÓN
+├── Datos Numéricos
+│   ├── Sistemas de numeración (binario, octal, hexadecimal)
+│   ├── Conversiones de base
+│   ├── Representación de enteros (signo-magnitud, complemento a dos)
+│   └── Representación de reales (IEEE 754)
+├── Datos Alfanuméricos
+│   ├── ASCII (7 bits)
+│   ├── EBCDIC (mainframes)
+│   └── Unicode (UTF-8, UTF-16, UTF-32)
+├── Información Multimedia
+│   ├── Imágenes (bitmap, vectorial, JPEG, PNG)
+│   ├── Sonido (PCM, MP3, AAC, FLAC)
+│   └── Vídeo (MPEG-2, H.264, H.265)
+└── Comunicación
+    ├── Canales (físicos, lógicos)
+    ├── Protocolos (OSI, TCP/IP)
+    └── Teoría de Shannon (capacidad de canal)
+```
+
+### 1.2. Contextualización
 
 La representación y comunicación de la información constituyen procesos fundamentales en los sistemas de información contemporáneos. La representación es el proceso de codificar información mediante formatos sintácticos, mientras que la comunicación es la transmisión de esa información a través de canales con garantías de integridad, seguridad y disponibilidad.
 
@@ -45,43 +69,103 @@ La teoría de la información de Shannon (1948) proporciona el fundamento matem�
 ### 2.1. Sistemas de Numeración Posicionales
 
 Un sistema de numeración posicional utiliza la base b y posiciones para representar valores. Un número en base b con dígitos d_n...d_1d_0 tiene valor:
-N = d_n × b^n + ... + d_1 × b^1 + d_0 × b^0
 
-En informática: base binaria (b=2), octal (b=8), hexadecimal (b=16).
+$$N = d_n \times b^n + \ldots + d_1 \times b^1 + d_0 \times b^0$$
 
-### 2.2. Cambio de Base
+En informática se utilizan principalmente:
+- **Base binaria (b=2)**: dígitos {0, 1}
+- **Base octal (b=8)**: dígitos {0-7}
+- **Base hexadecimal (b=16)**: dígitos {0-9, A-F}
 
-Conversión de base 10 a base b: división sucesiva por b, recogiendo restos en orden inverso.
-Conversión de base b a base 10: aplicar fórmula posicional directamente.
+**Teoría subyacente:** La entropía de información de Shannon para una fuente equiprobable N de símbolos es H(X) = log₂(N) bits por símbolo. En sistemas de numeración posicionales, cada dígito en base b puede codificar log₂(b) bits de información.
 
-Ejemplo: 13₁₀ = 1101₂ (verificación: 1×8 + 1×4 + 0×2 + 1×1 = 13)
+### 2.2. Operaciones Básicas
 
-### 2.3. Operaciones Básicas
+Suma, resta, multiplicación y división en sistemas posicionales siguen reglas análogas a base 10, considerando acarreos (carry) y préstamos (borrow) en la base correspondiente.
 
-Suma, resta, multiplicación y división en sistemas posicionales siguen reglas análogas a base 10, considerando acarreos y préstamos en la base correspondiente.
+**Ejemplo suma binaria:**
+```
+  1101 (13₁₀)
++  0111 (7₁₀)
+---------
+ 10100 (20₁₀)
+```
+
+La complexidad computacional de operaciones aritméticas depende del número de dígitos n y crece como O(n) en suma/resta y O(n²) en multiplicación simple (aunque existen algoritmos más eficientes como Karatsuba O(n^1.585)).
+
+### 2.3. Cambio de Base
+
+**Conversión de base 10 a base b:** División sucesiva por b, recogiendo restos en orden inverso.
+
+**Ejemplo:** Convertir 13₁₀ a binario:
+- 13 ÷ 2 = 6 resto 1
+- 6 ÷ 2 = 3 resto 0
+- 3 ÷ 2 = 1 resto 1
+- 1 ÷ 2 = 0 resto 1
+- **Resultado:** 1101₂
+
+**Conversión de base b a base 10:** Aplicar fórmula posicional directamente.
+
+$$\text{Verificación: } 1101_2 = 1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 8 + 4 + 0 + 1 = 13_{10}$$
+
+**Conversiones rápidas:** Entre bases que son potencias una de otra (ej., binario ↔ octal, binario ↔ hexadecimal) se pueden agrupar dígitos sin cálculos intermedios.
 
 ### 2.4. Enteros
 
 **Representación de enteros con signo:**
-- Signo-magnitud: bit más significativo indica signo (problema: +0 y -0).
-- Complemento a uno: invertir todos los bits (problema: todavía +0 y -0).
-- Complemento a dos (estándar): invertir todos los bits y sumar 1. Ventaja: única representación del cero, aritmética más simple.
 
-Ejemplo (8 bits): -5 = 11111011₂ (complemento a dos de 00000101)
+- **Signo-magnitud:** Bit más significativo (MSB) indica signo (0=positivo, 1=negativo). Magnitud: valores absolutos. Desventaja: +0 y -0 son distintas representaciones.
 
-Rango representable en complemento a dos con n bits: -2^(n-1) a 2^(n-1)-1
+- **Complemento a uno:** Invertir todos los bits. Sigue permitiendo +0 y -0, complicando aritmética.
+
+- **Complemento a dos (estándar de facto):** Invertir todos los bits y sumar 1. 
+  - Ventaja: única representación del cero
+  - Aritmética simplificada (suma funciona igual para positivos y negativos)
+  - Rango asimétrico
+
+**Ejemplo (8 bits, complemento a dos):**
+- +5 = 00000101₂
+- -5: invertir → 11111010, sumar 1 → 11111011₂
+
+**Rango representable con n bits en complemento a dos:**
+$$-2^{n-1} \text{ a } 2^{n-1}-1$$
+
+Ejemplo: n=8 → [-128, 127]; n=32 → [-2,147,483,648, 2,147,483,647]
+
+**Overflow aritmético:** Cuando el resultado de una operación excede el rango representable, produciendo resultados incorrectos sin advertencia en lenguajes de bajo nivel.
 
 ### 2.5. Reales
 
-**Notación científica normalizada:** m × 2^e, donde 1 ≤ m < 2
+**Notación científica normalizada:** Un número real se expresa como m × b^e, donde 1 ≤ |m| < b (mantisa o significando normalizado) y e es el exponente.
 
-**Estándar IEEE 754:**
-- Precisión simple (32 bits): 1 bit signo + 8 bits exponente + 23 bits mantisa. Rango ~10^(-38) a 10^38
-- Precisión doble (64 bits): 1 bit signo + 11 bits exponente + 52 bits mantisa. Rango ~10^(-308) a 10^308
+**Estándar IEEE 754 (1985, revisado 2008):**
 
-Valores especiales: +∞, -∞, NaN (Not a Number)
+- **Precisión simple (32 bits):** 
+  - 1 bit signo + 8 bits exponente + 23 bits mantisa
+  - Rango aproximado: 10^(-38) a 10^38
+  - Precisión: ~7 dígitos decimales
 
-Problema de precisión: 0.1 + 0.2 ≠ 0.3 exactamente en punto flotante (error de representación)
+- **Precisión doble (64 bits):**
+  - 1 bit signo + 11 bits exponente + 52 bits mantisa
+  - Rango aproximado: 10^(-308) a 10^308
+  - Precisión: ~15-17 dígitos decimales
+
+**Valores especiales IEEE 754:**
+- **+∞, -∞:** Resultado de desbordamientos (overflow)
+- **NaN (Not a Number):** Resultado de operaciones indefinidas (0/0, √(-1))
+- **Subnormales:** Números con exponente mínimo para representar valores cercanos a cero
+
+**Problema de precisión finita:** Los números reales en punto flotante no pueden representar exactamente todos los números racionales.
+
+**Ejemplo clásico:** 0.1 + 0.2 ≠ 0.3 exactamente en IEEE 754. En doble precisión:
+- 0.1₁₀ ≈ 0.1000000000000000055511151231...₂
+- 0.2₁₀ ≈ 0.2000000000000000111022302462...₂
+- 0.1₁₀ + 0.2₁₀ ≈ 0.3000000000000000444089209850...₂ ≠ 0.3₁₀
+
+**Implicaciones:**
+- Pruebas de igualdad deben usar tolerancias (|a - b| < ε)
+- Operaciones en distinto orden producen resultados ligeramente diferentes
+- Acumulación de errores de redondeo en iteraciones largas
 
 ---
 
@@ -188,11 +272,15 @@ donde B = ancho de banda, S = potencia señal, N = potencia ruido. Límite teór
 
 La representación y comunicación de información constituyen procesos complejos, interdisciplinarios y centrales en cualquier sistema informático. Una selección adecuada de formatos, protocolos y mecanismos de control de calidad requiere balancear múltiples requisitos contrapuestos: eficiencia de almacenamiento vs fidelidad, facilidad de uso vs seguridad, velocidad de transmisión vs confiabilidad.
 
-La investigación actual se orienta hacia: (a) compresión semántica que preserve significado reduciendo volumen; (b) formatos auto-descriptivos para interoperabilidad; (c) mecanismos de seguridad integrados en la representación misma.
+La teoría de la información de Shannon establece límites fundamentales: la capacidad máxima de un canal está determinada por su ancho de banda y la relación señal-ruido. Ningún código, por sofisticado que sea, puede superar esta limitación física, aunque en la práctica los sistemas reales operan significativamente por debajo de estos límites óptimos.
 
+La investigación actual se orienta hacia:
+1. **Compresión semántica:** Reducción de volumen preservando significado mediante análisis de contexto y machine learning
+2. **Formatos auto-descriptivos:** Metadatos integrados para garantizar interoperabilidad e interpretabilidad a largo plazo
+3. **Mecanismos de seguridad integrados:** Encriptación y autenticación como propiedades inherentes de la representación, no añadidas posteriormente
+4. **Computación cuántica:** Representaciones en qbits que pueden explorar múltiples estados simultáneamente
 
-
-
+---
 
 ## 7. BIBLIOGRAFÍA
 
@@ -210,9 +298,13 @@ La investigación actual se orienta hacia: (a) compresión semántica que preser
 
 7. ISO/IEC (2016). *ISO/IEC 27001:2013 - Information technology, Security techniques, Information security management systems*.
 
+8. IEEE (2008). *IEEE 754-2008 Standard for Floating-Point Arithmetic*.
+
+9. Unicode Consortium (2021). *The Unicode Standard, Version 14.0*. https://www.unicode.org/
+
 ---
 
-## 8. LEGISLACIÓN
+## LEGISLACIÓN RELEVANTE
 
 - **RGPD (Reglamento General de Protección de Datos)**, Reg. (UE) 2016/679: normativa principal en protección de privacidad en transmisión y tratamiento de datos personales en la UE. Establece derechos de acceso, rectificación y supresión.
 

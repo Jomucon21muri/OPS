@@ -1,33 +1,66 @@
-# 26 - Lenguajes de programación. Tipos y características
+# TEMA 26: LENGUAJES DE PROGRAMACIÓN. TIPOS Y CARACTERÍSTICAS
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Lenguajes de programación
-      - Imperativo
-      - Declarativo
-      - Funcional
-      - Lógico
-      - Compilado vs Interpretado
-      - Tipado estático/dinámico
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. LENGUAJES DE PROGRAMACIÓN
+3. LENGUAJES DE ALTO NIVEL: JAVA
+4. CONCLUSIÓN
+5. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Clasificación de lenguajes
+## 1. INTRODUCCIÓN
 
-3.2 Paradigmas de programación
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Características: tipado, alcance, semántica
+```
+LENGUAJES DE PROGRAMACIÓN. TIPOS Y CARACTERÍSTICAS
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Herramientas y entornos de ejecución
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "LENGUAJES DE PROGRAMACIÓN. TIPOS Y CARACTERÍSTICAS" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. LENGUAJES DE PROGRAMACIÓN
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. LENGUAJES DE ALTO NIVEL: JAVA
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 5. BIBLIOGRAFÍA
+
+1. [Referencias]

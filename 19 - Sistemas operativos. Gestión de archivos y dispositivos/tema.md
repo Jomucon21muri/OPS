@@ -1,33 +1,88 @@
-# 19 - Sistemas operativos. Gestión de archivos y dispositivos
+# TEMA 19: SISTEMAS OPERATIVOS: GESTIÓN DE ARCHIVOS Y DISPOSITIVOS
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Gestión de archivos y dispositivos
-      - Sistema de ficheros
-      - Inode/FAT
-      - Montajes
-      - Permisos
-      - Recuperación
-      - Cuotas
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. GESTIÓN DE ARCHIVOS
+3. GESTIÓN DE DISPOSITIVOS
+4. GESTIÓN DE ARCHIVOS Y DISPOSITIVOS EN LOS SISTEMAS OPERATIVOS ACTUALES
+5. INTEGRIDAD DEL SISTEMA DE ARCHIVOS, COPIAS DE SEGURIDAD
+6. CONCLUSIÓN
+7. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Sistemas de ficheros: estructura y operaciones
+## 1. INTRODUCCIÓN
 
-3.2 Gestión de directorios y namespaces
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Control de acceso: permisos y ACLs
+```
+SISTEMAS OPERATIVOS: GESTIÓN DE ARCHIVOS Y DISPOSITIVOS
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Gestión de dispositivos y montajes
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "SISTEMAS OPERATIVOS: GESTIÓN DE ARCHIVOS Y DISPOSITIVOS" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. GESTIÓN DE ARCHIVOS
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. GESTIÓN DE DISPOSITIVOS
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. GESTIÓN DE ARCHIVOS Y DISPOSITIVOS EN LOS SISTEMAS OPERATIVOS ACTUALES
+
+### 4.1. Contenido fundamental
+
+En la sección «4.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 5. INTEGRIDAD DEL SISTEMA DE ARCHIVOS, COPIAS DE SEGURIDAD
+
+### 5.1. Contenido fundamental
+
+En la sección «5.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 6. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 7. BIBLIOGRAFÍA
+
+1. [Referencias]

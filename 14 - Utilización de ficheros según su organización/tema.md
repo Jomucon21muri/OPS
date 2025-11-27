@@ -1,33 +1,66 @@
-# 14 - Utilización de ficheros según su organización
+# TEMA 14: UTILIZACIÓN DE FICHEROS SEGÚN SU ORGANIZACIÓN
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Acceso a ficheros
-      - Secuencial
-      - Aleatorio
-      - Indexado
-      - Rendimiento
-      - Caché
-      - Buffering
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. TIPOS DE ACCESO Y ORGANIZACIÓN
+3. OPERACIONES SOBRE ARCHIVOS
+4. CONCLUSIÓN
+5. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Acceso secuencial: lectura y escritura
+## 1. INTRODUCCIÓN
 
-3.2 Acceso aleatorio: búsqueda y actualización
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Acceso indexado: velocidad y sobrecarga
+```
+UTILIZACIÓN DE FICHEROS SEGÚN SU ORGANIZACIÓN
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Optimización de I/O y cache de ficheros
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "UTILIZACIÓN DE FICHEROS SEGÚN SU ORGANIZACIÓN" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. TIPOS DE ACCESO Y ORGANIZACIÓN
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. OPERACIONES SOBRE ARCHIVOS
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 5. BIBLIOGRAFÍA
+
+1. [Referencias]

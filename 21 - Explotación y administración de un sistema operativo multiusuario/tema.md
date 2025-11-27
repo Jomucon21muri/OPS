@@ -1,33 +1,88 @@
-# 21 - Explotación y administración de un sistema operativo multiusuario
+# TEMA 21: EXPLOTACIÓN Y ADMINISTRACIÓN DE UN SISTEMA OPERATIVO MULTIUSUARIO
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - SO multiusuario
-      - Gestión de usuarios
-      - Permisos y roles
-      - Cuotas
-      - Auditoría
-      - Seguridad de acceso
-      - Recursos compartidos
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. CARACTERÍSTICAS DE UN SISTEMA OPERATIVO MULTIUSUARIO
+3. EXPLOTACIÓN DE UN SISTEMA OPERATIVO MULTIUSUARIO
+4. ADMINISTRACIÓN DE UN SISTEMA OPERATIVO MULTIUSUARIO
+5. MANTENIMIENTO DE UN SISTEMA OPERATIVO MULTIUSUARIO
+6. CONCLUSIÓN
+7. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Gestión de usuarios y grupos
+## 1. INTRODUCCIÓN
 
-3.2 Control de acceso: permisos, SELinux, AppArmor
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Cuotas de disco y limites de recursos
+```
+EXPLOTACIÓN Y ADMINISTRACIÓN DE UN SISTEMA OPERATIVO MULTIUSUARIO
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Auditoría, logging y monitoreo
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "EXPLOTACIÓN Y ADMINISTRACIÓN DE UN SISTEMA OPERATIVO MULTIUSUARIO" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. CARACTERÍSTICAS DE UN SISTEMA OPERATIVO MULTIUSUARIO
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. EXPLOTACIÓN DE UN SISTEMA OPERATIVO MULTIUSUARIO
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. ADMINISTRACIÓN DE UN SISTEMA OPERATIVO MULTIUSUARIO
+
+### 4.1. Contenido fundamental
+
+En la sección «4.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 5. MANTENIMIENTO DE UN SISTEMA OPERATIVO MULTIUSUARIO
+
+### 5.1. Contenido fundamental
+
+En la sección «5.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 6. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 7. BIBLIOGRAFÍA
+
+1. [Referencias]

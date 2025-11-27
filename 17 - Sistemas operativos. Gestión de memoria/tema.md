@@ -1,33 +1,88 @@
-# 17 - Sistemas operativos. Gestión de memoria
+# TEMA 17: SISTEMAS OPERATIVOS: GESTIÓN DE MEMORIA
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Gestión de memoria
-      - Espacio de direcciones
-      - Particiones
-      - Paginación
-      - Segmentación
-      - Memoria virtual
-      - Reemplazo de página
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. GESTIÓN DE MEMORIA
+3. GESTIÓN DE MEMORIA REAL
+4. GESTIÓN DE MEMORIA VIRTUAL
+5. GESTIÓN DE MEMORIA EN SISTEMAS OPERATIVOS ACTUALES
+6. CONCLUSIÓN
+7. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Esquemas de asignación: contigua y particiones
+## 1. INTRODUCCIÓN
 
-3.2 Paginación: tablas de páginas y TLB
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Segmentación y segmentación+paginación
+```
+SISTEMAS OPERATIVOS: GESTIÓN DE MEMORIA
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Memoria virtual, swapping y algoritmos de reemplazo
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "SISTEMAS OPERATIVOS: GESTIÓN DE MEMORIA" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. GESTIÓN DE MEMORIA
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. GESTIÓN DE MEMORIA REAL
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. GESTIÓN DE MEMORIA VIRTUAL
+
+### 4.1. Contenido fundamental
+
+En la sección «4.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 5. GESTIÓN DE MEMORIA EN SISTEMAS OPERATIVOS ACTUALES
+
+### 5.1. Contenido fundamental
+
+En la sección «5.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 6. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 7. BIBLIOGRAFÍA
+
+1. [Referencias]

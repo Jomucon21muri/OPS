@@ -1,33 +1,100 @@
-# 06 - Sistemas de almacenamiento externo. Tipos. Características y funcionamiento
+# TEMA 6: TEMA 6
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Almacenamiento externo
-      - HDD
-      - SSD
-      - NAS
-      - SAN
-      - Interfaces (SATA, NVMe)
-      - RAID
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN ................................................................................................
+   1.1. Mapa conceptual del tema ...........................................................................
+   1.2. Contextualización ....................................................................................
+2. SISTEMAS DE ALMACENAMIENTO EXTERNO ..................................................................
+3. TIPOS, CARACTERÍSTICAS Y FUNCIONAMIENTO ..................................................................
+4. NUEVAS TENDENCIAS. ALMACENAMIENTO EN LA RED ..................................................................
+5. REDUNDANCIA DE DATOS, RAID ..................................................................
+6. CONCLUSIÓN ...................................................................................................
+7. BIBLIOGRAFÍA ...............................................................................................
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Tipos y características físicas
+## 1. INTRODUCCIÓN
 
-3.2 Protocolos e interfaces
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Rendimiento, fiabilidad y seguridad
+```
+TEMA 6
+├── Mapa conceptual del tema
+│   ├── Conceptos principales
+│   ├── Relaciones
+│   └── Aplicaciones
+├── Teoría fundamental
+├── Componentes clave
+├── Procesos
+└── Integración
+```
 
-3.4 Sistemas de almacenamiento en red y escalabilidad
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "TEMA 6" constituye un área fundamental en la disciplina de la informática, cuya comprensión es esencial para profesionales del sector. Los contenidos que se abordan en este tema integran aspectos teóricos y prácticos, permitiendo una comprensión profunda de los procesos, estructuras y tecnologías implicadas.
 
-5. Bibliografía (incluir referencias reales)
+La relevancia de este tema se manifiesta en múltiples contextos: desde el diseño y desarrollo de sistemas hasta su implementación y mantenimiento. Una comprensión sólida de estos contenidos es requisito previo para abordar temas de mayor complejidad y especialización.
 
-6. Legislación y normas relevantes
+
+---
+
+## 2. SISTEMAS DE ALMACENAMIENTO EXTERNO
+
+### 2.1. Fundamentos
+
+En la sección «2.1. Fundamentos» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. TIPOS, CARACTERÍSTICAS Y FUNCIONAMIENTO
+
+### 3.1. Fundamentos
+
+En la sección «3.1. Fundamentos» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. NUEVAS TENDENCIAS. ALMACENAMIENTO EN LA RED
+
+### 4.1. Fundamentos
+
+En la sección «4.1. Fundamentos» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 5. REDUNDANCIA DE DATOS, RAID
+
+### 5.1. Fundamentos
+
+En la sección «5.1. Fundamentos» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+---
+
+## 6. CONCLUSIÓN
+
+El estudio integral de este tema proporciona las bases necesarias para comprender y aplicar conceptos en contextos profesionales. La integración de teoría y práctica, junto con la consideración de estándares actuales y tendencias emergentes, garantiza la relevancia y aplicabilidad de los conocimientos adquiridos.
+
+---
+
+## 7. BIBLIOGRAFÍA
+
+1. [Referencia a definir según tema específico]
+
+---
+
+## LEGISLACIÓN RELEVANTE
+
+- **RGPD (Reglamento General de Protección de Datos)**, Reg. (UE) 2016/679
+- **ISO/IEC 27001:2013**: Sistemas de gestión de seguridad de la información

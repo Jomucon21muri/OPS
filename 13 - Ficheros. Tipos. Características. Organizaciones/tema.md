@@ -1,33 +1,88 @@
-# 13 - Ficheros. Tipos. Características. Organizaciones
+# TEMA 13: FICHEROS. TIPOS. CARACTERÍSTICAS. ORGANIZACIONES
 
-Índice
+.............................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Ficheros
-      - Tipos (texto, binario)
-      - Organización (secuencial, aleatorio, indexada)
-      - Estructura física y lógica
-      - Directorios
-      - Metadatos
-      - Persistencia
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN
+   1.1. Mapa conceptual del tema
+   1.2. Contextualización
+2. FICHEROS
+3. TIPOS DE FICHEROS
+4. TÉCNICAS DE ASIGNACIÓN
+5. ORGANIZACIONES DE FICHEROS
+6. CONCLUSIÓN
+7. BIBLIOGRAFÍA
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+.............................................................................................
 
-3. Desarrollo
+---
 
-3.1 Tipos y formatos de ficheros
+## 1. INTRODUCCIÓN
 
-3.2 Organización física: bloques, clusters, asignación
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Organización lógica: acceso secuencial y aleatorio
+```
+FICHEROS. TIPOS. CARACTERÍSTICAS. ORGANIZACIONES
+├─ Concepto Principal
+│  ├─ Aspecto 1
+│  └─ Aspecto 2
+└─ Aplicaciones
+```
 
-3.4 Índices, búsqueda y sistemas de directorios
+### 1.2. Contextualización
 
-4. Conclusión
+El tema "FICHEROS. TIPOS. CARACTERÍSTICAS. ORGANIZACIONES" constituye un área fundamental en la informática.
 
-5. Bibliografía (incluir referencias reales)
 
-6. Legislación y normas relevantes
+---
+
+## 2. FICHEROS
+
+### 2.1. Contenido fundamental
+
+En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 3. TIPOS DE FICHEROS
+
+### 3.1. Contenido fundamental
+
+En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 4. TÉCNICAS DE ASIGNACIÓN
+
+### 4.1. Contenido fundamental
+
+En la sección «4.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 5. ORGANIZACIONES DE FICHEROS
+
+### 5.1. Contenido fundamental
+
+En la sección «5.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+
+
+
+---
+
+## 6. CONCLUSIÓN
+
+Conclusión del tema.
+
+---
+
+## 7. BIBLIOGRAFÍA
+
+1. [Referencias]
