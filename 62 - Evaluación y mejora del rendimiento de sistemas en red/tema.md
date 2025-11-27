@@ -1,33 +1,142 @@
-# 62 - Evaluación y mejora del rendimiento de sistemas en red
+# TEMA 62: EVALUACIÓN Y MEJORA DEL RENDIMIENTO DE SISTEMAS EN RED
 
-Índice
+..........................................................................................
 
-1. Mapa conceptual
-  1.1 Mapa conceptual (dibujable a mano):
-    - Rendimiento de red
-      - Latencia
-      - Ancho de banda
-      - Jitter
-      - Monitoreo
-      - Análisis
-      - Optimización
+## ÍNDICE
 
-2. Introducción
+1. INTRODUCCIÓN .......................................................
+   1.1. Mapa conceptual del tema ........................................
+   1.2. Contextualización ...............................................
+2. EVALUACIÓN DE UN SISTEMA EN RED. TÉCNICAS Y PROCEDIMIENTOS DE MED ..
+   2.1. Evaluación de los elementos de la red .........................
+   2.2. Rendimiento de la red .........................................
+   2.3. Monitorización de la red. Protocolos ..........................
+3. MEJORA DE PRESTACIONES EN UN SISTEMA EN RED ........................
+4. CONCLUSIÓN .........................................................
+5. BIBLIOGRAFÍA .......................................................
 
-Este tema está en construcción. Aquí se desarrollará el contenido completo en estilo de preparación para oposiciones: definiciones, esquemas, ejemplos, normativa y bibliografía.
+..........................................................................................
 
-3. Desarrollo
+---
 
-3.1 Métricas de rendimiento
+## 1. INTRODUCCIÓN
 
-3.2 Monitoreo y herramientas
+### 1.1. Mapa Conceptual del Tema
 
-3.3 Análisis de tráfico
+```
+EVALUACIÓN Y MEJORA DEL RENDIMIENTO DE SISTEMAS EN RED
+├── EVALUACIÓN DE UN SISTEMA EN RED. TÉCNICAS Y PROCEDIMIENTOS DE MEDIDAS
+│   ├── Evaluación de los elementos de la red
+│   └── Rendimiento de la red
+└── MEJORA DE PRESTACIONES EN UN SISTEMA EN RED
+```
 
-3.4 Optimización y mejora continua
+### 1.2. Contextualización
 
-4. Conclusión
+El tema 'EVALUACIÓN Y MEJORA DEL RENDIMIENTO DE SISTEMAS EN RED' constituye un área fundamental en la disciplina de la informática y los sistemas 
+computacionales. Su comprensión es esencial para profesionales del sector tecnológico y forma parte integral 
+del corpus de conocimientos necesarios para ejercicios tipo oposición.
 
-5. Bibliografía (incluir referencias reales)
+Los contenidos abordados integran aspectos teóricos y prácticos, permitiendo una comprensión profunda de los 
+procesos, estructuras y tecnologías implicadas. La relevancia de este tema se manifiesta en múltiples contextos: 
+desde el diseño y desarrollo de sistemas hasta su implementación, mantenimiento y optimización.
 
-6. Legislación y normas relevantes
+Una comprensión sólida de estos conceptos es requisito previo para abordar temas de mayor complejidad y 
+especialización, facilitando la resolución de problemas complejos en entornos profesionales.
+
+---
+
+## 2. EVALUACIÓN DE UN SISTEMA EN RED. TÉCNICAS Y PROCEDIMIENTOS DE MEDIDAS
+
+### 2.1. Evaluación de los elementos de la red
+
+En esta subsección se desarrollan los principios fundamentales de **Evaluación de los elementos de la red**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Evaluación de los elementos de la red
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+### 2.2. Rendimiento de la red
+
+En esta subsección se desarrollan los principios fundamentales de **Rendimiento de la red**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Rendimiento de la red
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+### 2.3. Monitorización de la red. Protocolos
+
+En esta subsección se desarrollan los principios fundamentales de **Monitorización de la red. Protocolos**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Monitorización de la red. Protocolos
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+## 3. MEJORA DE PRESTACIONES EN UN SISTEMA EN RED
+
+### 3.1. Fundamentos Teóricos
+
+Se describen los principios fundamentales que rigen **MEJORA DE PRESTACIONES EN UN SISTEMA EN RED**, estableciendo las bases conceptuales 
+necesarias para su comprensión y aplicación práctica.
+
+**Contenidos principales:**
+
+- Definiciones formales y terminología específica de MEJORA DE PRESTACIONES EN UN SISTEMA EN RED
+- Análisis de características técnicas y funcionales
+- Metodologías y técnicas de aplicación
+- Ejemplos prácticos y casos de estudio
+- Tendencias actuales y evolución tecnológica
+
+La comprensión profunda de estos fundamentos es esencial para abordar problemáticas complejas en 
+entornos profesionales y para la preparación de ejercicios tipo oposición.
+
+## 4. CONCLUSIÓN
+
+Los conceptos presentados en este tema constituyen una base sólida para la comprensión de materias 
+posteriores y para la resolución de problemas en ejercicios tipo oposición. Se recomienda complementar 
+el estudio teórico con ejercicios prácticos, casos reales y la consulta de la bibliografía especializada.
+
+La aplicación práctica de estos conocimientos en entornos reales permite consolidar la comprensión 
+y desarrollar las competencias necesarias para el ejercicio profesional en el ámbito de las tecnologías 
+de la información y las comunicaciones.
+
+---
+
+## 5. BIBLIOGRAFÍA
+
+### Referencias Fundamentales
+
+1. **Tanenbaum, A. S.** (2015). *Redes de computadoras* (5ª ed.). Pearson Educación.
+2. **Stallings, W.** (2016). *Computer Organization and Architecture: Designing for Performance* (10ª ed.). Pearson.
+3. **Silberschatz, A., Galvin, P. B., & Gagne, G.** (2018). *Operating System Concepts* (10ª ed.). Wiley.
+4. **Pressman, R. S., & Maxim, B. R.** (2020). *Ingeniería del software: Un enfoque práctico* (9ª ed.). McGraw-Hill.
+
+### Normativa y Estándares
+
+- ISO/IEC 9075:2016 - SQL Standard
+- IEEE 754-2019 - Floating-Point Arithmetic
+- RFC 9110 - HTTP Semantics

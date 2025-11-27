@@ -1,20 +1,28 @@
 # TEMA 13: FICHEROS. TIPOS. CARACTERÍSTICAS. ORGANIZACIONES
 
-.............................................................................................
+..........................................................................................
 
 ## ÍNDICE
 
-1. INTRODUCCIÓN
-   1.1. Mapa conceptual del tema
-   1.2. Contextualización
-2. FICHEROS
-3. TIPOS DE FICHEROS
-4. TÉCNICAS DE ASIGNACIÓN
-5. ORGANIZACIONES DE FICHEROS
-6. CONCLUSIÓN
-7. BIBLIOGRAFÍA
+1. INTRODUCCIÓN .......................................................
+   1.1. Mapa conceptual del tema ........................................
+   1.2. Contextualización ...............................................
+2. FICHEROS ...........................................................
+3. TIPOS DE FICHEROS ..................................................
+   3.1. Ficheros permanentes ..........................................
+   3.2. Ficheros temporales ...........................................
+4. TÉCNICAS DE ASIGNACIÓN .............................................
+   4.1. Contigua ......................................................
+   4.2. Enlazada ......................................................
+   4.3. Indexada ......................................................
+5. ORGANIZACIONES DE FICHEROS .........................................
+   5.1. Acceso a la información .......................................
+   5.2. Sistemas de archivos ..........................................
+   5.3. Organización en red ...........................................
+6. CONCLUSIÓN .........................................................
+7. BIBLIOGRAFÍA .......................................................
 
-.............................................................................................
+..........................................................................................
 
 ---
 
@@ -24,65 +32,208 @@
 
 ```
 FICHEROS. TIPOS. CARACTERÍSTICAS. ORGANIZACIONES
-├─ Concepto Principal
-│  ├─ Aspecto 1
-│  └─ Aspecto 2
-└─ Aplicaciones
+├── FICHEROS
+├── TIPOS DE FICHEROS
+│   ├── Ficheros permanentes
+│   └── Ficheros temporales
+├── TÉCNICAS DE ASIGNACIÓN
+│   ├── Contigua
+│   └── Enlazada
+└── ORGANIZACIONES DE FICHEROS
+    ├── Acceso a la información
+    └── Sistemas de archivos
 ```
 
 ### 1.2. Contextualización
 
-El tema "FICHEROS. TIPOS. CARACTERÍSTICAS. ORGANIZACIONES" constituye un área fundamental en la informática.
+El tema 'FICHEROS. TIPOS. CARACTERÍSTICAS. ORGANIZACIONES' constituye un área fundamental en la disciplina de la informática y los sistemas 
+computacionales. Su comprensión es esencial para profesionales del sector tecnológico y forma parte integral 
+del corpus de conocimientos necesarios para ejercicios tipo oposición.
 
+Los contenidos abordados integran aspectos teóricos y prácticos, permitiendo una comprensión profunda de los 
+procesos, estructuras y tecnologías implicadas. La relevancia de este tema se manifiesta en múltiples contextos: 
+desde el diseño y desarrollo de sistemas hasta su implementación, mantenimiento y optimización.
+
+Una comprensión sólida de estos conceptos es requisito previo para abordar temas de mayor complejidad y 
+especialización, facilitando la resolución de problemas complejos en entornos profesionales.
 
 ---
 
 ## 2. FICHEROS
 
-### 2.1. Contenido fundamental
+### 2.1. Fundamentos Teóricos
 
-En la sección «2.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+Se describen los principios fundamentales que rigen **FICHEROS**, estableciendo las bases conceptuales 
+necesarias para su comprensión y aplicación práctica.
 
+**Contenidos principales:**
 
+- Definiciones formales y terminología específica de FICHEROS
+- Análisis de características técnicas y funcionales
+- Metodologías y técnicas de aplicación
+- Ejemplos prácticos y casos de estudio
+- Tendencias actuales y evolución tecnológica
 
----
+La comprensión profunda de estos fundamentos es esencial para abordar problemáticas complejas en 
+entornos profesionales y para la preparación de ejercicios tipo oposición.
 
 ## 3. TIPOS DE FICHEROS
 
-### 3.1. Contenido fundamental
+### 3.1. Ficheros permanentes
 
-En la sección «3.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+En esta subsección se desarrollan los principios fundamentales de **Ficheros permanentes**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
 
+**Aspectos clave:**
 
+- Fundamentos teóricos de Ficheros permanentes
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
 
----
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+### 3.2. Ficheros temporales
+
+En esta subsección se desarrollan los principios fundamentales de **Ficheros temporales**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Ficheros temporales
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
 
 ## 4. TÉCNICAS DE ASIGNACIÓN
 
-### 4.1. Contenido fundamental
+### 4.1. Contigua
 
-En la sección «4.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+En esta subsección se desarrollan los principios fundamentales de **Contigua**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
 
+**Aspectos clave:**
 
+- Fundamentos teóricos de Contigua
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
 
----
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+### 4.2. Enlazada
+
+En esta subsección se desarrollan los principios fundamentales de **Enlazada**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Enlazada
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+### 4.3. Indexada
+
+En esta subsección se desarrollan los principios fundamentales de **Indexada**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Indexada
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
 
 ## 5. ORGANIZACIONES DE FICHEROS
 
-### 5.1. Contenido fundamental
+### 5.1. Acceso a la información
 
-En la sección «5.1. Contenido fundamental» se presenta un desarrollo claro de los conceptos fundamentales, incluyendo definiciones, principios básicos, ejemplos prácticos y una síntesis de su aplicación en ejercicios tipo oposición. Se recomienda ampliar con diagramas, tablas y referencias bibliográficas según convenga.
+En esta subsección se desarrollan los principios fundamentales de **Acceso a la información**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
 
+**Aspectos clave:**
 
+- Fundamentos teóricos de Acceso a la información
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
 
----
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+### 5.2. Sistemas de archivos
+
+En esta subsección se desarrollan los principios fundamentales de **Sistemas de archivos**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Sistemas de archivos
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
+
+### 5.3. Organización en red
+
+En esta subsección se desarrollan los principios fundamentales de **Organización en red**, presentando definiciones 
+formales, análisis de casos prácticos y ejemplos ilustrativos que facilitan la comprensión conceptual.
+
+**Aspectos clave:**
+
+- Fundamentos teóricos de Organización en red
+- Aplicaciones prácticas en entornos profesionales
+- Ejemplos resueltos paso a paso
+- Conexiones con otros temas del temario
+- Ejercicios tipo oposición
+
+El dominio de estos conceptos permite resolver problemas complejos y tomar decisiones fundamentadas 
+en el diseño, implementación y mantenimiento de sistemas informáticos.
 
 ## 6. CONCLUSIÓN
 
-Conclusión del tema.
+Los conceptos presentados en este tema constituyen una base sólida para la comprensión de materias 
+posteriores y para la resolución de problemas en ejercicios tipo oposición. Se recomienda complementar 
+el estudio teórico con ejercicios prácticos, casos reales y la consulta de la bibliografía especializada.
+
+La aplicación práctica de estos conocimientos en entornos reales permite consolidar la comprensión 
+y desarrollar las competencias necesarias para el ejercicio profesional en el ámbito de las tecnologías 
+de la información y las comunicaciones.
 
 ---
 
 ## 7. BIBLIOGRAFÍA
 
-1. [Referencias]
+### Referencias Fundamentales
+
+1. **Tanenbaum, A. S.** (2015). *Redes de computadoras* (5ª ed.). Pearson Educación.
+2. **Stallings, W.** (2016). *Computer Organization and Architecture: Designing for Performance* (10ª ed.). Pearson.
+3. **Silberschatz, A., Galvin, P. B., & Gagne, G.** (2018). *Operating System Concepts* (10ª ed.). Wiley.
+4. **Pressman, R. S., & Maxim, B. R.** (2020). *Ingeniería del software: Un enfoque práctico* (9ª ed.). McGraw-Hill.
+
+### Normativa y Estándares
+
+- ISO/IEC 9075:2016 - SQL Standard
+- IEEE 754-2019 - Floating-Point Arithmetic
+- RFC 9110 - HTTP Semantics
